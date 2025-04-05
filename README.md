@@ -11,7 +11,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone <ссылка_на_ваш_репозиторий>
+   git clone https://github.com/cencitus/secure-auth-app/edit
    cd secure-auth-app
 Установка зависимостей и запуск приложения
 1. Установите зависимости для бэкенда:
